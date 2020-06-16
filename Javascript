@@ -1,0 +1,6 @@
+let colors = ['red', 'purple', 'blue', 'green', 'black']
+let hasManyColors = false;
+if (colors.length < 3){console.log ('false')}
+else {console.log('true')}
+
+printValues ([0, 3, 6, 7, 9])
